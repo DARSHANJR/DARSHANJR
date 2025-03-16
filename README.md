@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DARSHANJR
 - 👀 I’m interested in ... phython
-- 🌱 I’m currently learning ...java 
-- 💞️ I’m looking to collaborate on ... animation projects
+- 🌱 I’m currently learning ...HTML,CSS,JAVASCRIPT  
+- 💞️ I’m looking to collaborate on ... websites 
 - 📫 How to reach me ...email to: darshanjr17@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
