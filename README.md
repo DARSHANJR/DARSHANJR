@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DARSHANJR
-- 👀 I’m interested in ... java
+- 👀 I’m interested in ... data analytics
 - 🌱 I’m currently learning ...HTML,CSS,JAVASCRIPT  
 - 💞️ I’m looking to collaborate on ... creation on websites 
 - 📫 How to reach me ...email to: darshanjr17@gmail.com
